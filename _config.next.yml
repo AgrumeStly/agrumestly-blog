@@ -179,7 +179,9 @@ links_settings:
   layout: block
 
 links:
-  #Title: https://example.com
+  mainpage: https://www.agrumestly.top
+  麻将点数计算器: https://maj.agrumestly.top
+  Xhofe's Blog: https://blog.nn.ci/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
